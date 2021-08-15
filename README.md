@@ -7,9 +7,17 @@ Requirements:
 - Tensorflow 1.15
 
 Usage:
+
+- training:
 ```
 python main.py
 ```
+
+- predict:
+```
+python predict.py
+```
+
 
 Notes:
 
