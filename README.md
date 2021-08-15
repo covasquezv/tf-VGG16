@@ -6,6 +6,11 @@ Requirements:
 - Python 3.7 
 - Tensorflow 1.15
 
+Usage:
+```
+python main.py
+```
+
 Notes:
 
 1) **./files_npy/** : folder contatining the following npy files
