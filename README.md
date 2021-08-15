@@ -1,6 +1,6 @@
 # Tensorflow 1.15 implementation of VGG-16.
 
-Download Imagenet-weight [here](https://drive.google.com/drive/folders/1kP66oCFU8XTsT2XhBPSZM0txEv6WmIzQ?usp=sharing).
+Download Imagenet weights [here](https://drive.google.com/drive/folders/1kP66oCFU8XTsT2XhBPSZM0txEv6WmIzQ?usp=sharing).
 
 Requirements:
 - Python 3.7 
